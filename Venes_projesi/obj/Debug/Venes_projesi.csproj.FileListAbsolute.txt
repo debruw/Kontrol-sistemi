@@ -1,0 +1,10 @@
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\Venes_projesi\Venes_projesi\bin\Debug\Venes_projesi.exe.config
+C:\Users\Ebruu.EBRUPC\Documents\Visual Studio 2015\Projects\Venes_projesi\Venes_projesi\bin\Debug\Venes_projesi.exe
+C:\Users\Ebruu.EBRUPC\Documents\Visual Studio 2015\Projects\Venes_projesi\Venes_projesi\bin\Debug\Venes_projesi.pdb
+C:\Users\Ebruu.EBRUPC\Documents\Visual Studio 2015\Projects\Venes_projesi\Venes_projesi\obj\Debug\Venes_projesi.csprojResolveAssemblyReference.cache
+C:\Users\Ebruu.EBRUPC\Documents\Visual Studio 2015\Projects\Venes_projesi\Venes_projesi\obj\Debug\Venes_projesi.Form1.resources
+C:\Users\Ebruu.EBRUPC\Documents\Visual Studio 2015\Projects\Venes_projesi\Venes_projesi\obj\Debug\Venes_projesi.Properties.Resources.resources
+C:\Users\Ebruu.EBRUPC\Documents\Visual Studio 2015\Projects\Venes_projesi\Venes_projesi\obj\Debug\Venes_projesi.csproj.GenerateResource.Cache
+C:\Users\Ebruu.EBRUPC\Documents\Visual Studio 2015\Projects\Venes_projesi\Venes_projesi\obj\Debug\Venes_projesi.exe
+C:\Users\Ebruu.EBRUPC\Documents\Visual Studio 2015\Projects\Venes_projesi\Venes_projesi\obj\Debug\Venes_projesi.pdb
+C:\Users\Ebruu.EBRUPC\Documents\Visual Studio 2015\Projects\Venes_projesi\Venes_projesi\obj\Debug\Venes_projesi.Form2.resources
